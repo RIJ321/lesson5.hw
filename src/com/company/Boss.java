@@ -29,11 +29,6 @@ public class Boss {
         this.bossDefenseType = bossDefenseType;
     }
 
-    public Boss(int bossDamage, int bossHealth, String bossDefenseType) {
-        this.bossDamage = bossDamage;
-        this.bossDefenseType = bossDefenseType;
-        this.bossHealth = bossHealth;
-    }
 }
 
 
